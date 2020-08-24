@@ -1,8 +1,8 @@
 # mp3bot
 
-Diskteki müzik dosyalarını bulur, saklar ve tanınamaz hale getirir. Oluşturduğu rapor dosyasını kullanarak işlemi geri alabilirsiniz.
+**Not:** İhtiyacım kalmadığı için bu projeyi geliştirmeyi bıraktım.
 
-**Not:** Artık bu projeyi geliştirmiyorum, arşiv amacıyla koydum. İşinize yararsa alın kullanın 😊
+Diskteki müzik dosyalarını bulur, saklar ve tanınamaz hale getirir. Oluşturduğu rapor dosyasını kullanarak işlemi geri alabilirsiniz.
 
 ## Neden böyle bir programa ihtiyaç duydum?
 
