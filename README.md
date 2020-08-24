@@ -2,6 +2,8 @@
 
 Diskteki müzik dosyalarını bulur, saklar ve tanınamaz hale getirir. Oluşturduğu rapor dosyasını kullanarak işlemi geri alabilirsiniz.
 
+**Not:** Artık bu projeyi geliştirmiyorum, arşiv amacıyla koydum. İşinize yararsa alın kullanın 😊
+
 ## Neden böyle bir programa ihtiyaç duydum?
 
 Okuduğum lisede akıllı tahtalar şifresizdi. Bazı öğrenciler müzik arşivlerini tahtaya yüklüyor ve teneffüslerde son ses müzik açıyorlardı. Müzik zevki konusunda çok seçici olan ben teneffüslerde [Mezdeke](https://www.youtube.com/watch?v=jDJK3E4b6Go) dinlemekten rahatsız oluyordum. Çıkışta müzikleri gizlice sildiğim olmuştu, ama her seferinde daha gizli klasörlere geri yüklemişlerdi. Ben de arka planda düzenli olarak (mesela 15 dakikada bir) çalışacak ve tüm müzikleri bulup ortadan kaldıracak bir *robot bekçi* hayal etmiştim.
